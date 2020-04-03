@@ -74,8 +74,8 @@ class Contact extends React.Component{
                             </div>
                             <div className="socials">
                                 <ul>
-                                <li><a href="https://facebook.com/douglas.danjuma50" target="_blank" rel="noopener noreferrer"><span className="ico-circle"><i className="ion-social-facebook"></i></span></a></li>
-                                <li><a href="https://github.com/douglas5" target="_blank" rel="noopener noreferrer"><span className="ico-circle"><i className="ion-social-github"></i></span></a></li>
+                                {/* <li><a href="https://facebook.com/douglas.danjuma50" target="_blank" rel="noopener noreferrer"><span className="ico-circle"><i className="ion-social-facebook"></i></span></a></li>
+                                <li><a href="https://github.com/douglas5" target="_blank" rel="noopener noreferrer"><span className="ico-circle"><i className="ion-social-github"></i></span></a></li> */}
                                 <li><a href="https://www.linkedin.com/in/douglasdanjuma5" target="_blank" rel="noopener noreferrer"><span className="ico-circle"><i className="ion-social-linkedin"></i></span></a></li>
                                 </ul>
                             </div>
