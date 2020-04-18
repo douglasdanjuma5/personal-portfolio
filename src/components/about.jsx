@@ -13,6 +13,7 @@ class About extends React.Component{
                 {id:"NodeJs_skill", content: "NodeJs",porcentage: "95%", value: "95"},
                 {id:"PHP_skill", content: "PHP",porcentage: "70%", value: "70"},
                 {id:"ReactJS_skill", content: "ReactJS",porcentage: "65%", value: "65"},
+                {id:"GatsbyJS_skill", content: "GatsbyJS",porcentage: "60%", value: "60"},
                 {id:"React Native_skill", content: "React Native",porcentage: "60%", value: "60"},
                 {id:"Codeigniter", content: "Codeigniter",porcentage: "75%", value: "75"},
                 {id:"Wordpress_skill", content: "Wordpress",porcentage: "60%", value: "60"},
